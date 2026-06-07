@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-07T03:31:41.1357268Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "codex-url-smoke-test",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "D:\\claude code work\\work\\github-url-test\\seedance-url-test.png",
+                       "repo_path":  "products/codex-url-smoke-test/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/codex-url-smoke-test/product-01.png"
+                   }
+               ]
+}
