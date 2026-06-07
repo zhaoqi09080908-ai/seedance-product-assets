@@ -1,0 +1,26 @@
+﻿{
+    "created_at":  "2026-06-07T05:46:31.5897736Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "guava-puree-short-drama-20260607",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\QQ_1780810202584.png",
+                       "repo_path":  "products/guava-puree-short-drama-20260607/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/guava-puree-short-drama-20260607/product-01.png"
+                   },
+                   {
+                       "index":  2,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\QQ_1780810211140.png",
+                       "repo_path":  "products/guava-puree-short-drama-20260607/product-02.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/guava-puree-short-drama-20260607/product-02.png"
+                   },
+                   {
+                       "index":  3,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\QQ_1780810221985.png",
+                       "repo_path":  "products/guava-puree-short-drama-20260607/product-03.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/guava-puree-short-drama-20260607/product-03.png"
+                   }
+               ]
+}
