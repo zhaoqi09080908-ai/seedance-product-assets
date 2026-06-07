@@ -1,0 +1,20 @@
+﻿{
+    "created_at":  "2026-06-07T10:53:35.9364949Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260607-185333",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "D:\\codex\\hidream\\seedance iuput\\45201c92-6c54-4c72-a7fb-d0838c5a5e5c.png",
+                       "repo_path":  "products/20260607-185333/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260607-185333/product-01.png"
+                   },
+                   {
+                       "index":  2,
+                       "source":  "D:\\codex\\hidream\\seedance iuput\\7c30ed99-7d48-4411-8263-bdcb9f4a6f01.png",
+                       "repo_path":  "products/20260607-185333/product-02.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260607-185333/product-02.png"
+                   }
+               ]
+}
