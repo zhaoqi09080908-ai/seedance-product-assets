@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-10T10:46:06.4828968Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "mengchong-phone-20260610",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\ChatGPT Image 2026年5月13日 17_07_11 (2).png",
+                       "repo_path":  "products/mengchong-phone-20260610/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/mengchong-phone-20260610/product-01.png"
+                   }
+               ]
+}
