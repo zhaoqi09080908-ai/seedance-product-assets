@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-16T03:34:47.2935012Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260616-dove-bodywash-remake",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-27daa529-dd66-4995-95cb-784aabd9536e.png",
+                       "repo_path":  "products/20260616-dove-bodywash-remake/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260616-dove-bodywash-remake/product-01.png"
+                   }
+               ]
+}
