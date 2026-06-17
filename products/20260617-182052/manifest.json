@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-17T10:20:54.0891414Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260617-182052",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Desktop\\20260617-181017.png",
+                       "repo_path":  "products/20260617-182052/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260617-182052/product-01.png"
+                   }
+               ]
+}
