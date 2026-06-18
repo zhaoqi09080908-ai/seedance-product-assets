@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-18T02:46:32.7924120Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260618-104630",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Roaming\\LarkShell\\sdk_storage\\545d96f5b068c1b2e86b104453ffce9c\\resources\\images\\img_v3_0212p_5119ab09-3f3d-4cea-930e-1c3fab35c23g.jpg",
+                       "repo_path":  "products/20260618-104630/product-01.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260618-104630/product-01.jpg"
+                   }
+               ]
+}
