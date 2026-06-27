@@ -1,0 +1,26 @@
+﻿{
+    "created_at":  "2026-06-27T09:51:48.5082153Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "huaxia-liangzi-ai-badge-20260627",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "D:\\wechat\\xwechat_files\\wxid_2bgnxh6xzl4d22_00da\\temp\\RWTemp\\2026-06\\2654efe0-dff3-40f0-a106-cddcdfa78aca\\1.png",
+                       "repo_path":  "products/huaxia-liangzi-ai-badge-20260627/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/huaxia-liangzi-ai-badge-20260627/product-01.png"
+                   },
+                   {
+                       "index":  2,
+                       "source":  "D:\\wechat\\xwechat_files\\wxid_2bgnxh6xzl4d22_00da\\temp\\RWTemp\\2026-06\\3f01814b-eb37-4312-b63e-bbee8fda5dbf\\2.jpg",
+                       "repo_path":  "products/huaxia-liangzi-ai-badge-20260627/product-02.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/huaxia-liangzi-ai-badge-20260627/product-02.jpg"
+                   },
+                   {
+                       "index":  3,
+                       "source":  "D:\\wechat\\xwechat_files\\wxid_2bgnxh6xzl4d22_00da\\temp\\RWTemp\\2026-06\\df999381-36c5-4c34-b80e-4cd11283eac6\\3.jpg",
+                       "repo_path":  "products/huaxia-liangzi-ai-badge-20260627/product-03.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/huaxia-liangzi-ai-badge-20260627/product-03.jpg"
+                   }
+               ]
+}
