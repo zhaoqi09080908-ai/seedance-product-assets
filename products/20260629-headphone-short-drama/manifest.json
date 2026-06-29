@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-29T10:51:02.7391527Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260629-headphone-short-drama",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-a0ba1bb7-f84e-4cf8-98ac-e9d96379b9d1.png",
+                       "repo_path":  "products/20260629-headphone-short-drama/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260629-headphone-short-drama/product-01.png"
+                   }
+               ]
+}
