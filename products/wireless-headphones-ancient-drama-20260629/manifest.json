@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-29T08:56:35.4944725Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "wireless-headphones-ancient-drama-20260629",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Documents\\New project\\outputs\\wireless-headphones-ancient-drama-20260629\\inputs\\wireless-headphones-product.png",
+                       "repo_path":  "products/wireless-headphones-ancient-drama-20260629/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/wireless-headphones-ancient-drama-20260629/product-01.png"
+                   }
+               ]
+}
