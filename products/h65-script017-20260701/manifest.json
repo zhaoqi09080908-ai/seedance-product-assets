@@ -1,0 +1,20 @@
+﻿{
+    "created_at":  "2026-07-01T09:23:16.0987577Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "h65-script017-20260701",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-557013a7-3d61-464c-a34d-3980a632a492.png",
+                       "repo_path":  "products/h65-script017-20260701/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/h65-script017-20260701/product-01.png"
+                   },
+                   {
+                       "index":  2,
+                       "source":  "C:\\Users\\Administrator\\Desktop\\h65支架款正面.png",
+                       "repo_path":  "products/h65-script017-20260701/product-02.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/h65-script017-20260701/product-02.png"
+                   }
+               ]
+}
