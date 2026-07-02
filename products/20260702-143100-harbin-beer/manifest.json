@@ -1,6 +1,6 @@
 {
   "created_at": "2026-07-02T06:33:34.348118+00:00",
-  "repo": "LeechQAQ/seedance-product-assets",
+  "repo": "zhaoqi09080908-ai/seedance-product-assets",
   "branch": "main",
   "batch": "20260702-143100-harbin-beer",
   "assets": [
@@ -8,10 +8,11 @@
       "index": 1,
       "source": "/Users/qizhao/Downloads/3da05f961060440a9d749d50e43bde94.jpg",
       "repo_path": "products/20260702-143100-harbin-beer/product-01.jpg",
-      "url": "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260702-143100-harbin-beer/product-01.jpg"
+      "url": "https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-143100-harbin-beer/product-01.jpg"
     }
   ],
   "seedance_reference_order": [
-    "图片1（商品图）：https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260702-143100-harbin-beer/product-01.jpg"
-  ]
+    "图片1（商品图）：https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-143100-harbin-beer/product-01.jpg"
+  ],
+  "manifest_url": "https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-143100-harbin-beer/manifest.json"
 }
