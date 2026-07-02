@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-07-02T07:05:14.662549+00:00",
+  "repo": "zhaoqi09080908-ai/seedance-product-assets",
+  "branch": "main",
+  "batch": "20260702-150600-fuyang-aijiabao",
+  "assets": [
+    {
+      "index": 1,
+      "source": "/Users/qizhao/Downloads/1ad304281e22437699c5d6a36a187ffa.jpg",
+      "repo_path": "products/20260702-150600-fuyang-aijiabao/product-01.jpg",
+      "url": "https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-150600-fuyang-aijiabao/product-01.jpg"
+    }
+  ],
+  "manifest_url": "https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-150600-fuyang-aijiabao/manifest.json",
+  "seedance_reference_order": [
+    "图片1（商品图）：https://raw.githubusercontent.com/zhaoqi09080908-ai/seedance-product-assets/main/products/20260702-150600-fuyang-aijiabao/product-01.jpg"
+  ]
+}
