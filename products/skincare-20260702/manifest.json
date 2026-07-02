@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-07-02T04:47:46.1636524Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "skincare-20260702",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\88583145f9ffd0d1d59265e4ec495d64.jpeg",
+                       "repo_path":  "products/skincare-20260702/product-01.jpeg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/skincare-20260702/product-01.jpeg"
+                   }
+               ]
+}
